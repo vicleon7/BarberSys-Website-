@@ -1,0 +1,6 @@
+{
+  "name": "BarberSys",
+  "description": "Gestiona tu estilo y tus citas con precisión. Plataforma para barberías modernas con reservas integradas, tienda de productos de excelente calidad, galería y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
